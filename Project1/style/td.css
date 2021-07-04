@@ -1,0 +1,35 @@
+#b{
+    color: white;
+    background-color: black;
+    margin-top: -1%;
+    /* padding-top:30vh ; */
+    border-bottom-left-radius: 32%;
+    border-bottom-right-radius: 32%;
+}
+
+#bt{
+    width:200px;
+    margin-top: 6vh; 
+    border: 1px solid white;
+}
+
+#bt:hover{
+    background-color: rgb(212, 211, 211);
+    color: black;
+}
+
+#pic{
+    width: 30vw;
+}
+
+#c{
+    width: 100px;
+    height: 100px;
+}
+
+#shop{
+    border-radius: 40px;
+    color: black;
+    background-color: white !important;
+}
+

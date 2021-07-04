@@ -1,0 +1,28 @@
+.a{
+    height:40px;
+    background-color: aqua;
+}
+.b{
+    height:40px;
+    background-color: brown
+}
+.c{
+    height:40px;
+    background-color: bisque;
+}
+@media(max-width:500px){
+    .a{
+        background-color: violet;
+    }
+    .b{
+        background-color:blue;
+    }
+    .c{
+        background-color: blue;
+    }
+}
+
+.nav-logo{
+    background-color:bisque;
+    margin-right:20px;
+}

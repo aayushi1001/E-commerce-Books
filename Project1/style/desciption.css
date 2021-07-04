@@ -1,0 +1,24 @@
+.img-h{
+    height: 57vh;
+    width: 20vw;
+}
+
+
+.Bb{
+    margin-top: -3.2%;
+    border-bottom: 0.5px solid rgb(211, 209, 209);
+}
+
+.rt{
+    font-size: 16px;
+    margin-top: -3.2%;
+    padding: -10%;
+}
+
+
+
+/* .v{
+    border: 1px solid black;
+    padding: 2rem;
+    margin: 2rem;
+} */

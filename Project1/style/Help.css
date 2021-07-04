@@ -1,0 +1,43 @@
+a:hover{
+    text-decoration: underline;
+}
+
+.carton{
+ height: 120px;
+}
+
+.flex-auto{
+    flex:0 0 auto;
+}
+
+.lock{
+    height: 120px;
+}
+
+.loc{
+     height: 120px;
+}
+
+.v{
+     margin: auto;
+     border: 1px solid black;
+     padding: 2rem;
+     display: none;
+}
+
+.link_decor:hover{
+     text-decoration: underline;
+}
+
+ #b1{
+     height: 170px;
+     width: 120px;
+ }
+
+.order_details{
+     margin-top:-4vh;
+ }
+
+/* #o{
+    display: none;
+} */

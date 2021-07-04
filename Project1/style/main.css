@@ -1,0 +1,33 @@
+
+.NewReleaseBook{
+    height: 200px;
+    width: 130px;
+    transition: 0.5s ease;
+}
+
+.sr{
+    height: 200px;
+    width: 180px;
+}
+
+.NewReleaseBook:hover{
+    opacity: 0.3;
+    
+}
+
+.sr:hover{
+    opacity: 0.3;
+}
+
+.genre{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+#w{
+    outline: none ;
+    border: none !important;
+    /* color: yellow;
+    background: black !important; */
+}
